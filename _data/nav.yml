@@ -1,0 +1,13 @@
+- name: Home
+  link: /
+- name: About Us
+  link: /aboutus
+- name: Links
+  link: /links
+- name: Discord
+  link: https://action.smarsfan.com/join-discord
+- name: Ar
+  link: /ar
+- name: Pi
+  link: /pi
+  

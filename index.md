@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome
 
 Welcome to the Livestream page

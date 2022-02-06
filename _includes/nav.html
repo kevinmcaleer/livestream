@@ -1,0 +1,11 @@
+<nav>
+<ul class="nav-bar nav bg-light">
+{% assign nav = site.data.nav %}
+
+{% for item in nav %}
+<li class="nav-item">
+<a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+</li>
+{% endfor %}
+</ul>
+</nav>
